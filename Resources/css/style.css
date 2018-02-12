@@ -1,9 +1,21 @@
 body {
-  text-align: center; 
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.TopImage {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .TopLinks {
-
+  font-size:18px; 
+  color:white;
 }
 
 .BottomLinks {
