@@ -9,15 +9,41 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+#DesignLocation {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+
 .TopImage {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .TopLinks {
-  font-size:18px; 
+  font-size:18px;
   color:white;
 }
 
 .BottomLinks {
+
+}
+
+.BottomHalf {
 
 }
