@@ -41,7 +41,14 @@ p {
 }
 
 .BottomLinks {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
 
+#BottomLinks {
+  color: white; 
 }
 
 .BottomHalf {
